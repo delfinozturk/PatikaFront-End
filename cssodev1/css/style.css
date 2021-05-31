@@ -1,0 +1,37 @@
+
+h1   {
+    color:palevioletred;
+    font-size:30px;
+    font-family:'Times New Roman';
+    text-align:center;
+    }
+
+p   {
+    color:black;
+    font-size:17;
+    font-family:'Times New Roman';
+    text-align:center;
+
+     }
+
+h2   {
+    color:purple;
+    font-size:26px;
+    font-family:'Limelight';
+    text-align:center;
+
+       }
+
+ h3   {
+     color:salmon;
+     font-size:23px;
+     text-align:center;
+
+    
+      }   
+
+  #center {
+    text-align:center;
+          }
+
+         
