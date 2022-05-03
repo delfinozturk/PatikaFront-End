@@ -1,0 +1,54 @@
+* {
+    padding: auto;
+    margin: auto;
+}
+.search {
+    text-align: center;
+    background-color: #D5D8DC;
+    margin: auto;
+    padding: 0px;
+   
+}
+
+header {
+    text-align: center;
+}
+
+.buton {
+    margin: 7px;
+    padding: 3px;
+}
+
+.kutu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.kutu1 {
+ background-color: #7EE5DA;
+   margin: 10px;
+  padding: 50px;
+ 
+}
+
+
+.kutu2 {
+    background-color: #7EE5DA;
+    margin: 10px;
+   padding: 43px;
+  
+}
+  
+
+.kutu3 {
+    
+    background-color: #7EE5DA;
+    margin: 10px;
+    padding: 40px;
+
+  
+}
+    
+
