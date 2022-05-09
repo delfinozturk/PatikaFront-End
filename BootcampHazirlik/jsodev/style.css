@@ -1,0 +1,43 @@
+
+* {
+   
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+    box-sizing: border-box;
+    background-color: rgb(129, 167, 211);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.text {
+    font-size: x-large;
+}
+
+.main{
+
+	background-color: #83f0cf;
+	width: 400px;
+	height: 175px;
+	margin: 100px;
+	position: relative;
+	padding: 30px;
+}
+
+.clock{
+	background: #dfbde6;
+	text-align: center;
+	font-size: 55px;
+	height: 100%;
+	padding-top: 23px;
+	font-family: Orbitron;
+	border-radius: 4px;
+}
+.text1 {
+    margin-bottom: 250px;
+}
